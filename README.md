@@ -25,10 +25,3 @@ A simple and clean daily task manager built with pure **HTML**, **CSS**, and **V
 *   **RTL Design:** Fully responsive Right-to-Left UI.
 
 </div>
-
----
-
-### 🚀 نحوه اجرا (How to Run)
-کافیست فایل `index.html` را در مرورگر خود باز کنید. (Just open `index.html` in your browser).
-
-*(برای جذابیت بیشتر، یک عکس از برنامه بگیر و در گیت‌هاب آپلود کن و کد `![Preview](./screenshot.png)` را زیر عنوان‌ها قرار بده)*
