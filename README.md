@@ -1,4 +1,4 @@
-# 📝 Todo List App | اپلیکیشن لیست کارها
+# 📝 Todo List  |  لیست کارها
 
 یک اپلیکیشن مدیریت کارهای روزانه، ساده و زیبا با استفاده از HTML، CSS و Vanilla JavaScript (بدون هیچ کتابخانه‌ای). اطلاعات به صورت خودکار در `LocalStorage` مرورگر ذخیره می‌شوند.
 
@@ -13,7 +13,7 @@
 
 <div dir="ltr">
 
-# 📝 Todo List App
+# 📝 Todo List 
 
 A simple and clean daily task manager built with pure **HTML**, **CSS**, and **Vanilla JavaScript**. All data is automatically saved in the browser's `LocalStorage`.
 
